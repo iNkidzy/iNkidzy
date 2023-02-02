@@ -1,4 +1,4 @@
-## Hello! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" />      
+## Hellooo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" />      
 
 <div align="right">
 
@@ -9,7 +9,7 @@
 
 <div align="center">
  
-Eager to learn and willing to try. :purple_heart:
+>Eager to learn and willing to try. :purple_heart:
 
 </div>
 
