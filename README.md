@@ -9,7 +9,7 @@
 
 <div align="center">
  
->Eager to learn and willing to try. :purple_heart:
+Eager to learn and willing to try. :purple_heart:
 
 </div>
 
@@ -35,8 +35,8 @@ ___
 
 <details>
 <summary>
-My GitHub stats 
-</summary>
+My GitHub Stats
+</summary> 
 
 
 #### :star: GitHub Stats 
