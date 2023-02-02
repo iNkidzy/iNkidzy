@@ -1,11 +1,19 @@
-## Hello! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" /> 
+## Hello! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" />      
 
+<div align="right">
 
-I am passionate about programming. 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iNkidzy.iNkidzy&left_color=mediumpurple&right_color=blue&left_text=Profile%20visits)
+</div>
 
+<br>
+
+<div align="center">
+ 
 Eager to learn and willing to try. :purple_heart:
 
+</div>
 
+<br>
 
 #### :open_file_folder: At the moment: 
 -  Web development student at EASV
@@ -33,7 +41,7 @@ My GitHub stats
 
 
 #### :star: GitHub Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iNkidzy&theme=material-palenight&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iNkidzy&theme=material-palenight&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :star: Coding Stats:
 
@@ -43,6 +51,3 @@ My GitHub stats
 
 ***
 </details>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iNkidzy.iNkidzy&left_color=mediumpurple&right_color=blue&left_text=Profile%20visits)
-
