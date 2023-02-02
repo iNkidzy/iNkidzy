@@ -13,7 +13,6 @@ Eager to learn and willing to try. :purple_heart:
 
 </div>
 
-<br>
 
 #### :open_file_folder: At the moment: 
 -  Web development student at EASV
@@ -48,6 +47,8 @@ My GitHub stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iNkidzy&langs_count=5&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 </details>
+
