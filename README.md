@@ -2,8 +2,10 @@
 
 <div align="right">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iNkidzy.iNkidzy&left_color=mediumpurple&right_color=blue&left_text=Profile%20visits)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iNkidzy.iNkidzy&left_color=%23A595D8&right_color=%2381A2EF&left_text=Profile%20visits)
 </div>
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FiNkidzy%2Fhit-counter&count_bg=%2381A2EF&title_bg=%23A595D8&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <br>
 
