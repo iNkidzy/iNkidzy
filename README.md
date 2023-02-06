@@ -11,8 +11,8 @@
 
 <div align="center">
  
-Eager to learn and willing to try. :purple_heart:
-
+Eager to learn and willing to try. 
+<a href="https://emoji.gg/emoji/2362_Flying_Hearts_Purple"><img src="https://cdn3.emoji.gg/emojis/2362_Flying_Hearts_Purple.gif" width="32px" height="32px" alt="Flying_Hearts_Purple"></a>
 </div>
 
 
