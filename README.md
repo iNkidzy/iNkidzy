@@ -17,8 +17,7 @@ Eager to learn and willing to try.
 
 
 #### :open_file_folder: At the moment: 
--  Web development student at EASV
--  Part-time fullstack developer at Visma Creditro A/S.
+- Junior developer
   ***
 #### :calling: Get in touch : 
 
